@@ -1,2 +1,2 @@
-this is git 
+this is my first git 
 it's interesting!
